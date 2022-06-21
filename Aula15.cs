@@ -25,7 +25,7 @@ class Aula15{
             default:
             tempo=-1;
             break;
-
+        }
                 if (tempo < 0)
                 {
                     Console.WriteLine("Transporte indisponível");
@@ -34,7 +34,7 @@ class Aula15{
                 { Console.WriteLine("Para o transporte escolhido o tempo é: {0}minutos", tempo); }
 
 
-        }
+        
 
 
     }
