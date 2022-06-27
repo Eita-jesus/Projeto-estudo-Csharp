@@ -11,9 +11,9 @@ class aula1{
 //Expressao 1 indica o incio da repetição num=0
 //Expressao 2 indica a quantidade de repetições, Eu Matheus Js gosto de dizer que a expresão dois é o limitador, limitarei quando chegar em 10.
 //Expressão 3, é o sequenciador, qual será a sequência ? num++ ou num = num+1 ou então num = num+2 ou até mesmo num +=1
-        for(int num=0;num<10;num++){
+        for(int num=10;num<10;num++){
         Console.WriteLine("Está safo ? {0}",num);
-        
+           
         }
 
 
